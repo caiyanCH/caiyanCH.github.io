@@ -9,3 +9,4 @@ defaultContentLanguage=  "zh"
 title =  "👨‍🌾 Caiyan"
 # 主题
 theme =  "PaperMod"
+publishDir =  "public"

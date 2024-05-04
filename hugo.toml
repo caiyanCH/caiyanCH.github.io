@@ -10,3 +10,15 @@ title =  "👨‍🌾 Caiyan"
 # 主题
 theme =  "PaperMod"
 publishDir =  "docs"
+
+
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to my website.      
+  socialIcons:
+    - name: email
+      url: 'mailto:some@emailadres.com'

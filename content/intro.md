@@ -1,4 +1,5 @@
 +++
 title = 'Intro'
 date = 2024-05-04T16:56:55+03:00
+draft = true
 +++
